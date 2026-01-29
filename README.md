@@ -1,6 +1,5 @@
 **I built a smart classroom monitoring system using computer vision to help prevent cheating during exams. Instead of relying only on human invigilators or limited tools like lockdown browsers, we used cameras and AI models to automatically detect suspicious behavior such as looking around, using phones/laptops, or trying to cheat with help from others.**
 
-
 Set up multiple cameras to cover the classroom.
 
 Used AI models (YOLOv8, Dlib, ResNet) to detect faces, eye movement, and devices.
